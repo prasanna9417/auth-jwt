@@ -14,9 +14,9 @@ Node.JS, React.Js, Express.Js and npm must be installed.
 Installing
 Follow these steps to run this project in your local computer.
 
-$ https://github.com/prasanna9417/Jwt-Auth
+$ https://github.com/prasanna9417/auth-jwt
 
-$ Jwt-Auth
+$ auth-jwt
 
 $ npm install-packages
 
