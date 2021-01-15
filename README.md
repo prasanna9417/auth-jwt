@@ -18,7 +18,11 @@ $ https://github.com/prasanna9417/auth-jwt
 
 $ auth-jwt
 
-$ npm run install-packages
+$ npm run install-packages 
+           or
+$ npm install
+$ cd client
+$ npm install
 
 Now, to run the project, run:
 $ npm run dev
